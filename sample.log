@@ -1,0 +1,14 @@
+INFO:ex:up
+INFO:ex:up
+INFO:ex:search
+INFO:ex:up
+INFO:ex:search
+INFO:ex:up
+INFO:ex:search
+INFO:ex:Не удалось получить данные из снапшота:
+ERROR:ex:'list'
+Traceback (most recent call last):
+  File "/Users/baegon/Dropbox/EGIS_OKND/egis-oknd-public-bot/src/execution_helper.py", line 74, in execution_processing
+    if snapshot in SNAPSHOTS['list']:
+KeyError: 'list'
+INFO:ex:up
